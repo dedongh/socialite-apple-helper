@@ -3,8 +3,8 @@
     "description": "Laravel Socialite Apple Login Helper to generate and manage Client Secret",
     "type": "library",
     "require": {
-        "lcobucci/jwt": "^4.1",
-        "firebase/php-jwt": "^5.2"
+        "lcobucci/jwt": "^5.3.0",
+        "firebase/php-jwt": "^6.10.1"
     },
     "license": "MIT",
     "authors": [
